@@ -138,6 +138,9 @@ margin: 0 1rem;
         white-space: nowrap;
         font-size: 0.75rem;
     }
+    .programaItem{
+        flex-direction: column;
+    }
     .galeriaGrilla{
         grid-template-columns: 1fr;
         margin-top: 2rem;
