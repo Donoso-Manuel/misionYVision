@@ -61,7 +61,7 @@ a {
     border: solid 2px #5A87A0;
     background-color: rgba(10, 24, 40, 0.7);
     border-radius: 30px;
-    padding: 1rem 3rem;
+    padding: 1rem 1.5rem;
     font-weight: bold;
     transition: all 0.5s;
     margin: 1rem;
@@ -73,7 +73,7 @@ a {
 .listaProgramas{
     list-style: none;
     padding-top: 1rem;
-    margin: 1rem;
+    margin: 0.5rem;
 }
 .programa h3{
     padding-right: 1rem;
@@ -84,7 +84,7 @@ a {
     margin-bottom: 10px;
     border: solid 2px black;
     border-radius: 5px;
-    padding: 1rem 5rem;
+    padding: 1rem 3.5rem;
     transition: all 0.9s;
 }
 .galeriaGrilla{
